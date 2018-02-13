@@ -6,7 +6,7 @@ palette = {
     4:  '#7593bb',  # blue
     5:  '#b0789b',  # magenta
     6:  '#5e99b1',  # cyan
-    7:  '#bdbbb6',  # white
+    7:  '#d3d1cc',  # white
     8:  '#929cad',  # bright black
     9:  '#c16c82',  # bright red
     10: '#a1b87c',  # bright green
